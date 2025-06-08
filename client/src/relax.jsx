@@ -3,6 +3,7 @@ import massage from './massage.png';
 
 const Relax = () => {
   return (
+    <section id = "Massage">
     <div className="flex flex-col md:flex-row bg-[#fdfdfd] min-h-screen items-center justify-center px-6 py-10">
       
       {/* Left: Image */}
@@ -27,6 +28,7 @@ const Relax = () => {
         </div>
       </div>
     </div>
+    </section>
   );
 };
 

@@ -5,6 +5,7 @@ import img3 from "./chicken.png";
 
 const MassageRoom = () => {
   return (
+    <section id = "Dining">
     <div className="flex flex-col md:flex-row bg-[#fdfdfd] min-h-screen items-center justify-between px-6 py-10 gap-10">
       
       {/* Left: Text Content */}
@@ -47,6 +48,7 @@ const MassageRoom = () => {
         />
       </div>
     </div>
+    </section>
   );
 };
 
