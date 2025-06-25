@@ -3,6 +3,7 @@
 ![DINING](https://github.com/Vansh-glitch1505/RoyalGrandStay/blob/main/Screenshot%202025-06-08%20172623.png?raw=true)
 ![MASSAGE](https://github.com/Vansh-glitch1505/RoyalGrandStay/blob/main/Screenshot%202025-06-08%20172909.png?raw=true)
 ![CONTACT](https://github.com/Vansh-glitch1505/RoyalGrandStay/blob/main/Screenshot%202025-06-08%20172958.png?raw=true)
+![PAYMENT AND CANCEL](https://github.com/Vansh-glitch1505/RoyalGrandStay/blob/main/Screenshot%202025-06-25%20093856.png?raw=true)
 ![FOOTER](https://github.com/Vansh-glitch1505/RoyalGrandStay/blob/main/Screenshot%202025-06-08%20173038.png?raw=true)
 
 # 🏨 Royal Grand Hotel – Booking Application
