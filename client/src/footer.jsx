@@ -10,7 +10,7 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-semibold text-[#a28c5f] mb-4">Hotel Policies</h2>
           <ul className="space-y-2 text-sm">
-            <li>• Check-in time: 2:00 PM</li>
+            <li>• Check-in time: 10:00 AM</li>
             <li>• Check-out time: 11:00 AM</li>
             <li>• Early check-in & late check-out subject to availability</li>
             <li>• No smoking inside rooms</li>
